@@ -19,7 +19,7 @@ if (len(mp4_files) > 0):
 
 flag = 0
 end = 0
-st.title('Mashup :musical_score::musical_note:')
+st.title('Mashup Website')
 st.write('Made by Gomsi Garg')
 name = st.text_input("Singer Name")
 n = int(st.number_input("No. of videos", step=1))
